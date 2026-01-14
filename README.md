@@ -83,7 +83,7 @@ cd Pneumonia-Severity-Analysis
 
 ---
 
-👥 Contributors
+## 👥 Contributors
 This project was developed as part of the AI Optimization Techniques for Healthcare Resource Management (OTH) course at Amrita Vishwa Vidyapeetham.
 
 Vepuri Satya Krishna (DL.AI.U4AID24140)
